@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2{
+      text-align: center;
+      padding-bottom: 50px;
+  }
+  
+  #tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    padding: 2px;
+    font: 12px;
+    background: white;
+    box-shadow: 1px 1px 10px;
+    border-radius: 20px;
+  }
+  
+.svgContainer{
+  display: block;
+  margin: auto;
+}
+  
+
